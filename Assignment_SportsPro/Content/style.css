@@ -1,0 +1,85 @@
+﻿.ddlcustomers {
+    display: block;
+    line-height: 1.5;
+    font-size: 1rem;
+    border-radius: .30rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    margin-left: 0;
+    color: black;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    width: 120%;
+}
+
+.margin_50 {
+    margin-left: 50px;
+}
+
+.drop-height {
+    height: 30px;
+}
+
+.margin_15 {
+    margin-left: 15px;
+}
+
+.h1 {
+    font-size: 80px;
+}
+
+.h2 {
+    font-size: 30px;
+}
+
+.btn-info {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+}
+
+.jumbotron h1 {
+    font-size: 250%;
+}
+
+.jumbotron h2 {
+    font-size: 150%;
+}
+
+.lable {
+    margin-left: 30px;
+}
+
+.button {
+    min-width: 200px;
+    margin: 10px;
+}
+
+.customWidth {
+    width: 95%;
+}
+
+.radioListMargin {
+    margin: 5px;
+}
+
+.labelSize {
+    font-size: 200%;
+}
+
+.logo {
+    font-weight: bold;
+    color: #808080;
+}
+
+.form-group {
+    margin-bottom: 0px !important;
+}
+
+.padding-0 {
+    padding: 0px !important;
+}
+
+.padding-20 {
+    padding: 20px !important;
+}

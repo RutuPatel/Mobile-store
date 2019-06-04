@@ -1,0 +1,152 @@
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csc.exe
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csc.exe.config
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csc.rsp
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csi.exe
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csi.rsp
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.AppContext.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\vbc.exe
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\vbc.exe.config
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\vbc.rsp
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\Assignment_SportsPro.dll.config
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\Assignment_SportsPro.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\Assignment_SportsPro.pdb
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Assignment_SportsPro.dll
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Assignment_SportsPro.pdb
+C:\Users\Rpatel1697\Desktop\Rutu_Assignment9\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csc.exe
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csc.exe.config
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csc.rsp
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csi.exe
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csi.rsp
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.AppContext.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\vbc.exe
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\vbc.exe.config
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\vbc.rsp
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Assignment_SportsPro.dll.config
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Assignment_SportsPro.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Assignment_SportsPro.pdb
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Assignment_SportsPro.dll
+C:\Users\Rpatel1697\Desktop\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Assignment_SportsPro.pdb
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csc.exe
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csc.exe.config
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csc.rsp
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csi.exe
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\csi.rsp
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.AppContext.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.Collections.Immutable.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.IO.FileSystem.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\vbc.exe
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\vbc.exe.config
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\vbc.rsp
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\VBCSCompiler.exe
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\roslyn\VBCSCompiler.exe.config
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Assignment_SportsPro.dll.config
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Assignment_SportsPro.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Assignment_SportsPro.pdb
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Project.csprojAssemblyReference.cache
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Project.csproj.CoreCompileInputs.cache
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Project.csproj.CopyComplete
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Assignment_SportsPro.dll
+\\FSSTU03D\Stu8\Home\Rpatel1697\Project-Asp.net\Rutu_Assignment9\Assignment_SportsPro\obj\Debug\Assignment_SportsPro.pdb
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\csc.exe
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\csc.exe.config
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\csc.rsp
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\csi.exe
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\csi.rsp
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\System.AppContext.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\vbc.exe
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\vbc.exe.config
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\vbc.rsp
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\Assignment_SportsPro.dll.config
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\Assignment_SportsPro.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\Assignment_SportsPro.pdb
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\obj\Debug\Assignment_SportsPro.dll
+C:\Users\Rutu\Desktop\New folder\rutu\Assignment_SportsPro\obj\Debug\Assignment_SportsPro.pdb
